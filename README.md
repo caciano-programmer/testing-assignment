@@ -1,3 +1,3 @@
 # testing-assignment 
 
-The purpose of this assignment was to learn unit testing using mock objects and testing against them 
+This was a school assignment for the class software testing, I was givin all the classes
